@@ -6,7 +6,7 @@ Even though there is a replacement for my system, I enjoy making it on my on.
 - I’m currently learning UE4's various features and editor extensions to make my plugins work more neat and clearly and expectedly.
 
 - My commits may be not frequent and may commits a lot of things at once. I only commit something when I think it is ready to go. Before that stage, all the codes are stored in my private storage.
-And also almost everything I commit will be on my private repos, so you might don't know am I doing.
+And also almost everything I commit will be on my private repos, so you might don't know what I am doing.
 
 - I’m looking to collaborate on Epic games, and EstericSoftware.
 
