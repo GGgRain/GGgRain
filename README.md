@@ -8,9 +8,11 @@ Even though there is a replacement for my system, I enjoy making it on my on.
 - My commits may be not frequent and may commits a lot of things at once. I only commit something when I think it is ready to go. Before that stage, all the codes are stored in my private storage.
 And also almost everything I commit will be on my private repos, so you might don't know what I am doing.
 
-- I’m looking to collaborate on Epic games, and EstericSoftware.
+- SimpleDialogueSystem is one of my works!
 
-- You can reach me with: parkhfdh@gmail.com 
+- I’m looking to collaborate on Epic games.
+
+- You can reach me with: devgrain13@gmail.com
 
 <!---
 GGgRain/GGgRain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
