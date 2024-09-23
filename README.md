@@ -1,7 +1,6 @@
 - 👋 Hello! I’m @GGgRain, and I'm a Unreal Engine plugin and game developer.
 
-- My commits may be not frequent and may commits a lot of things at once. I only commit something when I think it is ready to go. Before that stage, all the codes are stored in my private storage.
-And also almost everything I commit will be on my private repos, so you might don't know what I am doing.
+- For now, I'm working hard on Joint ecosystem and following projects!
 
 - You can reach me with: devgrain13@gmail.com
 
